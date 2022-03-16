@@ -1,0 +1,21 @@
+{
+    "name": "luoyy/crc16",
+    "description": "php crc16 component",
+    "require": {
+        "php": ">=8.1.0"
+    },
+    "authors": [{
+        "name": "luoyy",
+        "email": "zishang520@gmail.com"
+    }],
+    "keywords": ["crc16", "ccittfalse", "arc", "augccitt", "buypass", "cdma2000", "dds110", "dectr", "dectx", "dnp", "en13757", "genibus", "maxim", "mcrf4xx", "riello", "t10dif", "teledisk", "tms37157", "usb", "a", "kermit", "modbus", "x25", "xmodem"],
+    "support": {
+        "issues": "https://github.com/zishang520/crc16/issues",
+        "source": "https://github.com/zishang520/crc16"
+    },
+    "autoload": {
+        "psr-4": {
+            "luoyy\\Crc16\\": "src/"
+        }
+    }
+}
